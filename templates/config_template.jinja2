@@ -1,0 +1,15 @@
+"""
+GTFS processing script- {{ state_prefix }}
+"""
+STATE_PREFIX = "{{ state_prefix }}"
+COUNTY_SETS = [
+{% for county_set in county_sets %}
+    {
+        'name': "{{ county_set['NAME'] }}",
+        'fipscode': "{{ county_set['COUNTYFP'] }}",
+        'gtfsfolders': [
+        ],
+    },
+{%- endfor %}
+]
+
