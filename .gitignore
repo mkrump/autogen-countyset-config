@@ -6,3 +6,5 @@ __pycache__/
 # original data
 .orig_data
 
+# test generated file
+georgia-gtfs-config-auto.py

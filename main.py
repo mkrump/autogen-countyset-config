@@ -15,6 +15,7 @@ def read_csv(filename):
         reader = csv.DictReader(csvfile)
         county_sets = []
         for row in reader:
+            row["COUNTYFP"] = row['COUNTYFP'].zfill(3)
             county_sets.append(row)
         return county_sets
 
