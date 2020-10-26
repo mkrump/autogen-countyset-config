@@ -1,0 +1,158 @@
+Type,Model,State,StateCode,NAMELSAD,COUNTYFP,GEOID,NAME
+Main,None,California,CA,Alameda County,1,6001,Alameda
+Main,None,California,CA,Alpine County,3,6003,Alpine
+Main,None,California,CA,Colusa County,11,6011,Colusa
+Main,None,California,CA,Contra Costa County,13,6013,Contra Costa
+Main,None,California,CA,Del Norte County,15,6015,Del Norte
+Main,None,California,CA,Glenn County,21,6021,Glenn
+Main,None,California,CA,Humboldt County,23,6023,Humboldt
+Main,None,California,CA,Imperial County,25,6025,Imperial
+Main,None,California,CA,Inyo County,27,6027,Inyo
+Main,None,California,CA,Kern County,29,6029,Kern
+Main,None,California,CA,Kings County,31,6031,Kings
+Main,None,California,CA,Lake County,33,6033,Lake
+Main,None,California,CA,Lassen County,35,6035,Lassen
+Main,None,California,CA,Marin County,41,6041,Marin
+Main,None,California,CA,Mendocino County,45,6045,Mendocino
+Main,None,California,CA,Modoc County,49,6049,Modoc
+Main,None,California,CA,Mono County,51,6051,Mono
+Main,None,California,CA,Monterey County,53,6053,Monterey
+Main,None,California,CA,Placer County,61,6061,Placer
+Main,None,California,CA,Plumas County,63,6063,Plumas
+Main,None,California,CA,Riverside County,65,6065,Riverside
+Main,None,California,CA,San Benito County,69,6069,San Benito
+Main,None,California,CA,San Bernardino County,71,6071,San Bernardino
+Main,None,California,CA,San Diego County,73,6073,San Diego
+Main,None,California,CA,San Francisco County,75,6073,San Francisco
+Main,None,California,CA,San Joaquin County,77,6077,San Joaquin
+Main,None,California,CA,San Luis Obispo County,79,6079,San Luis Obispo
+Main,None,California,CA,Santa Barbara County,83,6083,Santa Barbara
+Main,None,California,CA,Santa Cruz County,87,6087,Santa Cruz
+Main,None,California,CA,Shasta County,89,6089,Shasta
+Main,None,California,CA,Sierra County,91,6091,Sierra
+Main,None,California,CA,Siskiyou County,93,6093,Siskiyou
+Main,None,California,CA,Solano County,95,6095,Solano
+Main,None,California,CA,Sonoma County,97,6097,Sonoma
+Main,None,California,CA,Stanislaus County,99,6099,Stanislaus
+Main,None,California,CA,Sutter County,101,6101,Sutter
+Main,None,California,CA,Tehama County,103,6103,Tehama
+Main,None,California,CA,Trinity County,105,6105,Trinity
+Main,None,California,CA,Tulare County,107,6107,Tulare
+Main,None,California,CA,Ventura County,111,6111,Ventura
+Main,None,California,CA,Yolo County,113,6113,Yolo
+Main,None,California,CA,Yuba County,115,6115,Yuba
+Main,None,Arizona,AZ,Apache County,1,4001,Apache
+Main,None,Arizona,AZ,Cochise County,3,4003,Cochise
+Main,None,Arizona,AZ,Coconino County,5,4005,Coconino
+Main,Full,Arizona,AZ,Maricopa County,13,4013,Maricopa
+Main,None,Arizona,AZ,Mohave County,15,4015,Mohave
+Main,None,Arizona,AZ,Navajo County,17,4017,Navajo
+Main,None,Arizona,AZ,Pima County,19,4019,Pima
+Main,None,Arizona,AZ,Pinal County,21,4021,Pinal
+Main,None,Arizona,AZ,Yavapai County,25,4025,Yavapai
+Main,None,Arizona,AZ,Yuma County,27,4027,Yuma
+Extra,None,Arizona,AZ,Gila County,7,4007,Gila
+Extra,None,Texas,TX,Anderson County,1,48001,Anderson
+Main,None,Texas,TX,Angelina County,5,48005,Angelina
+Main,None,Texas,TX,Bastrop County,21,48021,Bastrop
+Main,None,Texas,TX,Bell County,27,48027,Bell
+Main,None,Texas,TX,Bexar County,29,48029,Bexar
+Main,None,Texas,TX,Bowie County,37,48037,Bowie
+Main,None,Texas,TX,Brazoria County,39,48039,Brazoria
+Main,None,Texas,TX,Brazos County,41,48041,Brazos
+Main,None,Texas,TX,Cameron County,61,48061,Cameron
+Extra,None,Texas,TX,Cherokee County,73,48073,Cherokee
+Main,None,Texas,TX,Collin County,85,48085,Collin
+Main,None,Texas,TX,Comal County,91,48091,Comal
+Main,None,Texas,TX,Coryell County,99,48099,Coryell
+Main,None,Texas,TX,Dallas County,113,48113,Dallas
+Main,None,Texas,TX,Denton County,121,48121,Denton
+Main,None,Texas,TX,Ector County,135,48135,Ector
+Main,None,Texas,TX,Ellis County,139,48139,Ellis
+Main,None,Texas,TX,El Paso County,141,48141,El Paso
+Main,None,Texas,TX,Fort Bend County,157,48157,Fort Bend
+Main,None,Texas,TX,Galveston County,167,48167,Galveston
+Main,None,Texas,TX,Grayson County,181,48181,Grayson
+Main,None,Texas,TX,Gregg County,183,48183,Gregg
+Main,None,Texas,TX,Guadalupe County,187,48187,Guadalupe
+Extra,None,Texas,TX,Hardin County,199,48199,Hardin
+Main,Full,Texas,TX,Harris County,201,48201,Harris
+Main,None,Texas,TX,Harrison County,203,48203,Harrison
+Main,None,Texas,TX,Hays County,209,48209,Hays
+Main,None,Texas,TX,Henderson County,213,48213,Henderson
+Main,None,Texas,TX,Hidalgo County,215,48215,Hidalgo
+Extra,None,Texas,TX,Hood County,221,48221,Hood
+Main,None,Texas,TX,Hunt County,231,48231,Hunt
+Main,None,Texas,TX,Jefferson County,245,48245,Jefferson
+Main,None,Texas,TX,Johnson County,251,48251,Johnson
+Main,None,Texas,TX,Kaufman County,257,48257,Kaufman
+Main,None,Texas,TX,Liberty County,291,48291,Liberty
+Main,None,Texas,TX,Lubbock County,303,48303,Lubbock
+Main,None,Texas,TX,McLennan County,309,48309,McLennan
+Extra,None,Texas,TX,Maverick County,323,48323,Maverick
+Main,None,Texas,TX,Midland County,329,48329,Midland
+Main,None,Texas,TX,Montgomery County,339,48339,Montgomery
+Main,None,Texas,TX,Nacogdoches County,347,48347,Nacogdoches
+Main,None,Texas,TX,Nueces County,355,48355,Nueces
+Main,None,Texas,TX,Orange County,361,48361,Orange
+Main,None,Texas,TX,Parker County,367,48367,Parker
+Main,None,Texas,TX,Potter County,375,48375,Potter
+Main,None,Texas,TX,Randall County,381,48381,Randall
+Main,None,Texas,TX,Rockwall County,397,48397,Rockwall
+Extra,None,Texas,TX,Rusk County,401,48401,Rusk
+Main,None,Texas,TX,San Patricio County,409,48409,San Patricio
+Main,None,Texas,TX,Smith County,423,48423,Smith
+Extra,None,Texas,TX,Starr County,427,48427,Starr
+Main,None,Texas,TX,Tarrant County,439,48439,Tarrant
+Main,None,Texas,TX,Taylor County,441,48441,Taylor
+Main,None,Texas,TX,Tom Green County,451,48451,Tom Green
+Main,None,Texas,TX,Travis County,453,48453,Travis
+Extra,None,Texas,TX,Van Zandt County,467,48467,Van Zandt
+Main,None,Texas,TX,Victoria County,469,48469,Victoria
+Main,None,Texas,TX,Walker County,471,48471,Walker
+Main,None,Texas,TX,Webb County,479,48479,Webb
+Main,None,Texas,TX,Wichita County,485,48485,Wichita
+Main,None,Texas,TX,Williamson County,491,48491,Williamson
+Main,None,Texas,TX,Wise County,497,48497,Wise
+Main,None,Georgia,GA,Barrow County,13,13013,Barrow
+Main,None,Georgia,GA,Bartow County,15,13015,Bartow
+Main,None,Georgia,GA,Bibb County,21,13021,Bibb
+Main,None,Georgia,GA,Bulloch County,31,13031,Bulloch
+Extra,None,Georgia,GA,Camden County,39,13039,Camden
+Main,None,Georgia,GA,Carroll County,45,13045,Carroll
+Main,None,Georgia,GA,Catoosa County,47,13047,Catoosa
+Main,None,Georgia,GA,Chatham County,51,13051,Chatham
+Main,None,Georgia,GA,Cherokee County,57,13057,Cherokee
+Main,None,Georgia,GA,Clarke County,59,13059,Clarke
+Main,None,Georgia,GA,Clayton County,63,13063,Clayton
+Main,None,Georgia,GA,Cobb County,67,13067,Cobb
+Main,None,Georgia,GA,Columbia County,73,13073,Columbia
+Main,None,Georgia,GA,Coweta County,77,13077,Coweta
+Main,None,Georgia,GA,DeKalb County,89,13089,DeKalb
+Main,None,Georgia,GA,Dougherty County,95,13095,Dougherty
+Main,None,Georgia,GA,Douglas County,97,13097,Douglas
+Extra,None,Georgia,GA,Effingham County,103,13103,Effingham
+Main,None,Georgia,GA,Fayette County,113,13113,Fayette
+Main,None,Georgia,GA,Floyd County,115,13115,Floyd
+Main,None,Georgia,GA,Forsyth County,117,13117,Forsyth
+Main,None,Georgia,GA,Fulton County,121,13121,Fulton
+Main,None,Georgia,GA,Glynn County,127,13127,Glynn
+Extra,None,Georgia,GA,Gordon County,129,13129,Gordon
+Main,None,Georgia,GA,Gwinnett County,135,13135,Gwinnett
+Main,None,Georgia,GA,Hall County,139,13139,Hall
+Main,None,Georgia,GA,Henry County,151,13151,Henry
+Main,None,Georgia,GA,Houston County,153,13153,Houston
+Main,None,Georgia,GA,Jackson County,157,13157,Jackson
+Extra,None,Georgia,GA,Liberty County,179,13179,Liberty
+Main,None,Georgia,GA,Lowndes County,185,13185,Lowndes
+Main,None,Georgia,GA,Muscogee County,215,13215,Muscogee
+Main,None,Georgia,GA,Newton County,217,13217,Newton
+Main,None,Georgia,GA,Paulding County,223,13223,Paulding
+Main,None,Georgia,GA,Richmond County,245,13245,Richmond
+Main,None,Georgia,GA,Rockdale County,247,13247,Rockdale
+Main,None,Georgia,GA,Spalding County,255,13255,Spalding
+Main,None,Georgia,GA,Troup County,285,13285,Troup
+Main,None,Georgia,GA,Walker County,295,13295,Walker
+Main,None,Georgia,GA,Walton County,297,13297,Walton
+Main,None,Georgia,GA,Whitfield County,313,13313,Whitfield
+Main,None,California,CA,Merced County,47,6047,Merced

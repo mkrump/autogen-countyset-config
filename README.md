@@ -1,4 +1,6 @@
 # autogen-countyset-config
+An example module to autogenerate configs from csv files. See example data for the expected input format.
+
 ### Requirements
 * [Pipenv](https://pipenv-fork.readthedocs.io/en/latest/install.html)
 
@@ -23,5 +25,5 @@ optional arguments:
 
 ### Example 
 ```
-python main.py --input-file=./example_data/georgia-counties.csv --output-file=example_data/georgia-gtfs-config-auto.py
+python main.py --input-file=./example_data/multiple-states.csv --output-dir=./example_data/configs
 ```

@@ -8,3 +8,5 @@ __pycache__/
 
 # test generated file
 georgia-gtfs-config-auto.py
+
+!example_data/configs

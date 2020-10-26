@@ -1,7 +1,7 @@
 """
-GTFS processing script- {{ state_prefix }}
+GTFS processing script- {{ county_sets[0]['StateCode'] }}
 """
-STATE_PREFIX = "{{ state_prefix }}"
+STATE_PREFIX = "{{ county_sets[0]['StateCode']}}"
 COUNTY_SETS = [
 {% for county_set in county_sets %}
     {
