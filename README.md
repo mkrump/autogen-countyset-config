@@ -2,12 +2,17 @@
 An example module to autogenerate configs from csv files. See example data for the expected input format.
 
 ### Requirements
-* [Pipenv](https://pipenv-fork.readthedocs.io/en/latest/install.html)
+* [Pipenv](https://pipenv-fork.readthedocs.io/en/latest/install.html) (optional)
 
 ### Setup 
 ```
 pipenv install
 ```
+or 
+```
+pip install -r requirements.txt
+```
+
 
 ### Usage
 ```
