@@ -11,7 +11,7 @@ pipenv install
 
 ### Usage
 ```
-usage: main.py [-h] --input-file INPUT_FILE --output-file OUTPUT_FILE
+usage: main.py [-h] --input-file INPUT_FILE --output-dir OUTPUT_DIR
 
 Autogenerate config file based on county data
 
@@ -19,8 +19,8 @@ optional arguments:
   -h, --help            show this help message and exit
   --input-file INPUT_FILE
                         csv file with county name and fips data
-  --output-file OUTPUT_FILE
-                        output file name
+  --output-dir OUTPUT_DIR
+                        output directory location
 ```
 
 ### Example 
