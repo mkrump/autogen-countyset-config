@@ -6,11 +6,11 @@ An example module to autogenerate configs from csv files. See example data for t
 
 ### Setup 
 ```
-pip install .
+pipenv install
 ```
 or 
 ```
-pip install -r requirements.txt
+pip install .
 ```
 
 
