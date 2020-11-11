@@ -6,7 +6,7 @@ An example module to autogenerate configs from csv files. See example data for t
 
 ### Setup 
 ```
-pipenv install
+pip install .
 ```
 or 
 ```
@@ -14,9 +14,13 @@ pip install -r requirements.txt
 ```
 
 
+### Tests
+```
+python -m pytest
+```
 ### Usage
 ```
-usage: main.py [-h] --input-file INPUT_FILE --output-dir OUTPUT_DIR
+usage: generate_configs [-h] --input-file INPUT_FILE --output-dir OUTPUT_DIR
 
 Autogenerate config file based on county data
 
@@ -30,5 +34,7 @@ optional arguments:
 
 ### Example 
 ```
-python main.py --input-file=./example_data/multiple-states.csv --output-dir=./example_data/configs
+generate_configs \
+    --input-file=./autogen_configs/example_data/multiple-states.csv \
+    --output-dir=./autogen_configs/example_data/configs
 ```

@@ -1,4 +1,4 @@
-Type,Model,State,StateCode,NAMELSAD,COUNTYFP,GEOID,NAME
+TYPE,MODEL,STATE,STATECODE,NAMELSAD,COUNTYFP,GEOID,NAME,GTFSFOLDERS
 Main,None,California,CA,Alameda County,1,6001,Alameda
 Main,None,California,CA,Alpine County,3,6003,Alpine
 Main,None,California,CA,Colusa County,11,6011,Colusa
@@ -121,24 +121,27 @@ Main,None,Georgia,GA,Bulloch County,31,13031,Bulloch
 Extra,None,Georgia,GA,Camden County,39,13039,Camden
 Main,None,Georgia,GA,Carroll County,45,13045,Carroll
 Main,None,Georgia,GA,Catoosa County,47,13047,Catoosa
-Main,None,Georgia,GA,Chatham County,51,13051,Chatham
-Main,None,Georgia,GA,Cherokee County,57,13057,Cherokee
+Main,None,Georgia,GA,Chatham County,51,13051,Chatham,Georgia/Chatham-GTFS
+Main,None,Georgia,GA,Cherokee County,57,13057,Cherokee,Georgia/Cherokee-gtfs_CATS
 Main,None,Georgia,GA,Clarke County,59,13059,Clarke
-Main,None,Georgia,GA,Clayton County,63,13063,Clayton
-Main,None,Georgia,GA,Cobb County,67,13067,Cobb
+Main,None,Georgia,GA,Clayton County,63,13063,Clayton,Georgia/atlanta-marta
+Main,None,Georgia,GA,Cobb County,67,13067,Cobb,Georgia/cobb-cct
 Main,None,Georgia,GA,Columbia County,73,13073,Columbia
 Main,None,Georgia,GA,Coweta County,77,13077,Coweta
-Main,None,Georgia,GA,DeKalb County,89,13089,DeKalb
+Main,None,Georgia,GA,DeKalb County,89,13089,DeKalb,Georgia/atlanta-marta
 Main,None,Georgia,GA,Dougherty County,95,13095,Dougherty
-Main,None,Georgia,GA,Douglas County,97,13097,Douglas
+Main,None,Georgia,GA,Douglas County,97,13097,Douglas,Georgia/atlanta-grta
 Extra,None,Georgia,GA,Effingham County,103,13103,Effingham
 Main,None,Georgia,GA,Fayette County,113,13113,Fayette
 Main,None,Georgia,GA,Floyd County,115,13115,Floyd
 Main,None,Georgia,GA,Forsyth County,117,13117,Forsyth
-Main,None,Georgia,GA,Fulton County,121,13121,Fulton
+Main,None,Georgia,GA,Fulton County,121,13121,Fulton,Georgia/atlanta-grta
+Main,None,Georgia,GA,Fulton County,121,13121,Fulton,Georgia/atlanta-gtfs_ASC
+Main,None,Georgia,GA,Fulton County,121,13121,Fulton,Georgia/atlanta-marta
 Main,None,Georgia,GA,Glynn County,127,13127,Glynn
 Extra,None,Georgia,GA,Gordon County,129,13129,Gordon
-Main,None,Georgia,GA,Gwinnett County,135,13135,Gwinnett
+Main,None,Georgia,GA,Gwinnett County,135,13135,Gwinnett,Georgia/gwinnettcountytransit-ga-us
+Main,None,Georgia,GA,Gwinnett County,135,13135,Gwinnett,Georgia/atlanta-grta
 Main,None,Georgia,GA,Hall County,139,13139,Hall
 Main,None,Georgia,GA,Henry County,151,13151,Henry
 Main,None,Georgia,GA,Houston County,153,13153,Houston

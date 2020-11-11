@@ -1,3 +1,0 @@
-# allow git check in empty dir
-*
-!.gitignore
