@@ -6,10 +6,6 @@ An example module to autogenerate configs from csv files. See example data for t
 
 ### Setup 
 ```
-pipenv install
-```
-or 
-```
 pip install .
 ```
 
